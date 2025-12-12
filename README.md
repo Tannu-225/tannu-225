@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Tannu, <br>🧠 A dedicated Full-Stack Developer working with Python, SQL, and the MERN stack.<br>🌱 I'm currently learning MongoDB, PostgreSQL, and exploring AI tools to enhance my development workflow.<br>💬 Ask me about backend development, databases, or building responsive UIs.<br>⚡ Fun fact: I enjoy simplifying complex ideas into clean and practical solutions. 
+# 👋 Hi, I'm Tannu
+🧠 A dedicated Full-Stack Developer working with Python, SQL, and the MERN stack.<br>🌱 I'm currently learning MongoDB, PostgreSQL, and exploring AI tools to enhance my development workflow.<br>💬 Ask me about backend development, databases, or building responsive UIs.<br>⚡ Fun fact: I enjoy simplifying complex ideas into clean and practical solutions. 
 
 
 # 💻 Tech Stack:
